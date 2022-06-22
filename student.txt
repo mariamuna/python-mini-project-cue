@@ -1,0 +1,5 @@
+Student: 1 name: mm id: 21 email: 2 previous_courses: a0,a1,b0 previous_courses_grades_respectively: 3.0,4.0,3.5 currently_running_courses: s
+Student: 2 name: nn id: 12 email: 3 previous_courses: b0,b1 previous_courses_grades_respectively: 3.0,4.0 currently_running_courses: s
+Student: 3 name: bb id: 24 email: 2 previous_courses: a0,a1,b0,b1 previous_courses_grades_respectively: 3.0,4.0,3.5,2.5 currently_running_courses: s
+Student: 4 name: ss id: 7 email: 3 previous_courses: c0,c1 previous_courses_grades_respectively: 3.0,4.0 currently_running_courses: sStudent: 5 name: mor ro id: 1 email: 23 previous_courses: q previous_courses_grades_respectively: 3.0 currently_running_courses: 
+Student: 6 name: mor id: 1 email: 2 previous_courses: nullnull previous_courses_grades_respectively: nullnull currently_running_courses: null

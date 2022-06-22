@@ -1,0 +1,6 @@
+course_number: 1 course_name: a course_time: 1 course_days: 2 no_of_credits: 3 course_instructor: r class_location: 4 pre-requisite_course: a0,a1
+course_number: 2 course_name: b course_time: 1 course_days: 2 no_of_credits: 3 course_instructor: t class_location: 4 pre-requisite_course: b0,b1
+course_number: 3 course_name: c course_time: 1 course_days: 2 no_of_credits: 3 course_instructor: y class_location: 4 pre-requisite_course: c0
+course_number: 4 course_name: r course_time: 1 course_days: 3 no_of_credits: 2 course_instructor: w class_location: 3 pre-requisite_course: q
+course_number: 5 course_name: q course_time: 2 course_days: 3 no_of_credits: 2 course_instructor: w class_location: 1 pre-requisite_course: e
+course_number: 6 course_name: n course_time: 1 course_days: m no_of_credits: 1 course_instructor: n class_location: 2 pre-requisite_course: math

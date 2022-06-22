@@ -1,0 +1,6 @@
+mm has_been_registered_in_course: a
+bb has_been_registered_in_course: b
+ss has_been_registered_in_course: c
+nn has_been_registered_in_course: b
+r has_been_registered_in_course: -1
+mor has_been_registered_in_course: -1

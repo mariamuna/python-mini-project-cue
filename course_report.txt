@@ -1,0 +1,9 @@
+Course report:
+
+ course_name: n
+ time: 1 days: m
+ no_of_credits: 1
+ course_instructor: n
+ class_location: 2
+ pre-requisite_courses: fdn,n,n
+ students_registered_in_this_course: no student registered in this course currently
